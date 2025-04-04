@@ -4,7 +4,7 @@ import img2 from './Image/Iimg2.webp';
 import img3 from './Image/Iimg3.webp';
 import img4 from './Image/Iimg4.webp';
 import img5 from './Image/Iimg5.webp';
-import img6 from './Image/Iimg6.webp';
+import img6 from './/Image/iimg6.webp';
 import img7 from './Image/Iimg7.webp';
 
 const Inaugurations = () => {
