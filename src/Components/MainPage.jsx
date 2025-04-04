@@ -13,8 +13,8 @@ const MainPage = () => {
                 />
                 
                 {/* Overlay Text Card */}
-                <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
-                                w-11/12 sm:w-4/5 md:w-3/5 lg:w-2/5 bg-white/80 backdrop-blur-sm
+                <div className="absolute top-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
+                                w-11/12 sm:w-4/5 md:w-3/5 lg:w-2/5 bg-white/10 backdrop-blur-sm
                                 border border-white/20 rounded-xl p-4 md:p-6 shadow-2xl
                                 transition-all duration-300 hover:shadow-3xl">
                     <div className="flex flex-col items-center text-center space-y-2 md:space-y-3">
